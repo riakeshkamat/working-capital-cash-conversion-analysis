@@ -1,0 +1,11 @@
+# Excel temp and lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
