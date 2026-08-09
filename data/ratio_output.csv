@@ -1,0 +1,16 @@
+ticker,name,fiscal_year,dio,dso,dpo,ccc
+COST,"Costco Wholesale Corporation",FY2023A,29.7,3.4,30.3,2.8
+COST,"Costco Wholesale Corporation",FY2024A,29.0,3.6,30.3,2.3
+COST,"Costco Wholesale Corporation",FY2025A,28.0,3.9,29.8,2.1
+DG,"Dollar General Corporation",FY2023A,93.1,1.3,48.3,46.1
+DG,"Dollar General Corporation",FY2024A,87.5,0.9,47.4,41.0
+DG,"Dollar General Corporation",FY2025A,80.4,0.9,48.6,32.7
+TGT,"Target Corporation",FY2023A,59.5,0.0,60.0,-0.5
+TGT,"Target Corporation",FY2024A,58.7,0.0,60.0,-1.3
+TGT,"Target Corporation",FY2025A,60.5,0.0,62.1,-1.6
+TJX,"TJX Companies Inc.",FY2023A,56.7,3.7,36.8,23.6
+TJX,"TJX Companies Inc.",FY2024A,57.8,3.5,37.9,23.4
+TJX,"TJX Companies Inc.",FY2025A,60.1,3.5,38.7,24.9
+WMT,"Walmart Inc.",FY2023A,41.5,4.7,41.2,5.0
+WMT,"Walmart Inc.",FY2024A,39.7,5.0,41.2,3.5
+WMT,"Walmart Inc.",FY2025A,39.3,5.4,41.5,3.2
