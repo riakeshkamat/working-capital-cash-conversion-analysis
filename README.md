@@ -18,6 +18,8 @@ Lower CCC indicates better cash efficiency because the company recovers cash fro
 
 All peer data was pulled from SEC EDGAR Form 10-K filings. The CSV retains the source filing URL, accession number, filing date, fiscal period end date, and XBRL tag for each row.
 
+Target FY2023 cost of sales uses the comparable, reclassified amount reported in Target's FY2024 Form 10-K. That filing moved $92 million of FY2023 expense from SG&A to cost of sales without changing operating income; the CSV therefore cites the later filing for that one value.
+
 | Company | CIK | Source |
 |---|---:|---|
 | Target Corporation | 0000027419 | SEC EDGAR Form 10-K filings |
